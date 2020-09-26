@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1575493729 source:d:\c\arvnaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.c"
+
+1575495438 d:\c\arvnaria\funcao.c
+	"ArVNaria.h"
+	<stdio.h>
+	<stdio.h>
+
+1575491174 d:\c\arvnaria\arvnaria.h
+
+1575495454 source:d:\1\c\arvnaria3\arvnaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcao.c"
+
+1575495440 d:\1\c\arvnaria3\arvnaria\funcao.c
+	"ArVNaria.h"
+	<stdio.h>
+	<stdio.h>
+
+1575491176 d:\1\c\arvnaria3\arvnaria\arvnaria.h
+
